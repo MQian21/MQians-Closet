@@ -1,0 +1,23 @@
+{
+  "name": "mqians-closet",
+  "version": "1.0.0",
+  "description": "eCommerce application built with MERN stack",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MQian21/MQians-Closet.git"
+  },
+  "author": "Michael Qian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MQian21/MQians-Closet/issues"
+  },
+  "homepage": "https://github.com/MQian21/MQians-Closet#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
